@@ -1,0 +1,14 @@
+button {
+  padding: 15px;
+  font-size: 80%;
+  background-color: orange;
+  font-weight: bolder;
+  color: wheat;
+  border: 1px solid wheat;
+  border-radius: 15%;
+  cursor: pointer;
+  box-shadow: 3px 4px 2px 2px wheat;
+}
+button:active {
+  box-shadow: 1px 1px 0px 2px wheat;
+}
